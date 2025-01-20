@@ -56,10 +56,10 @@ group :development do
   gem "web-console"
 
   # Prettier for Ruby [https://github.com/prettier/plugin-ruby]
-  gem 'prettier_print'
-  gem 'syntax_tree'
-  gem 'syntax_tree-haml'
-  gem 'syntax_tree-rbs'
+  gem "prettier_print"
+  gem "syntax_tree"
+  gem "syntax_tree-haml"
+  gem "syntax_tree-rbs"
 end
 
 group :test do
