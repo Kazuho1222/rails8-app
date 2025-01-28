@@ -60,6 +60,7 @@ group :development do
   gem "syntax_tree"
   gem "syntax_tree-haml"
   gem "syntax_tree-rbs"
+  gem "hotwire-spark"
 end
 
 group :test do
